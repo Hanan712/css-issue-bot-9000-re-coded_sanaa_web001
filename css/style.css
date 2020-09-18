@@ -5,6 +5,8 @@ body {
 h1 {
   color: blue;
   font-size: 12px;
+  font-size: 3em;
+
 }
 
 h2 {
@@ -15,8 +17,6 @@ h2 {
 
 .completed {
   font-family: 12px;
-  font-family: 3em;
-
 }
 
 #tasks .completed {
